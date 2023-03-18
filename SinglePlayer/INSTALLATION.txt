@@ -1,0 +1,5 @@
+
+1. Place 'nkbuffalos' folder to mods\update\x64\dlcpacks 
+2. Edit 'dlclist.xml' from mods\update\update.rpf\common\data 
+3. Add this line to <Item>dlcpacks:/nkbuffalos/</Item> 
+4. Save and replace it 

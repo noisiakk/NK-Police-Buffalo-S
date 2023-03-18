@@ -1,0 +1,1 @@
+If you want with the unmarked version, you need to take the files from the Folder FiveM > Addon/Globbing Mode version, just replace them in dlc.rpf.
